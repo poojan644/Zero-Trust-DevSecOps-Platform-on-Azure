@@ -30,7 +30,7 @@ This architecture detects RBAC role assignment changes and automatically sends e
 
 ### 📊 Architecture Diagram
 
-![Azure RBAC Role Assignment Alert Architecture](docs/architecture/azure-rbac-alert-architecture.png)
+![Azure RBAC Role Assignment Alert Architecture](docs/architecture/azure_rbac_alert_archiitecture.png)
 
 ---
 
@@ -58,12 +58,12 @@ This architecture detects RBAC role assignment changes and automatically sends e
 
 ## 📂 Repository Structure
 ├── terraform/
-│ ├── main.tf
-│ └── ...
+│   ├── main.tf
+│   └── ...
 ├── docs/
-│ ├── screenshots/
-│ └── architecture/
-│ └── azure-rbac-alert-architecture.png
+│   ├── screenshots/
+│   └── architecture/
+│   └── azure-rbac-alert-architecture.png
 ├── README.md
 └── LICENSE
 
